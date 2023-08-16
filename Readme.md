@@ -5,7 +5,7 @@ Welcome to our autonomous vehicle (AV) ownership project!
 
 We examined how trip-level characteristics may influence autonomous vehicle ownership decisions. Using 639 stated preference survey responses in the US, we developed an integrated choice and latent variable model linking trip- and consumer-level characteristics to AV ownership choices.
 
-If you are interested in autonomous vehicle policies, this project is for you! 🖖 👀
+If you are interested in autonomous vehicle policies and ownership modeling, this project is for you! 🖖 👀
 
 Project page: https://www.sciencedirect.com/science/article/pii/S1361920922001493?dgcid=rss_sd_all
 
