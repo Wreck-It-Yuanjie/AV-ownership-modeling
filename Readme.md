@@ -3,11 +3,11 @@
 ## About
 Welcome to our autonomous vehicle (AV) ownership project!
 
-This light, fun application contains various useless facts (WARNING: you might get addicted to reading them). Do you know cow magnets protect cows from harmful ferrous materials they may inadvertently ingest while grazing?
+We examined how trip-level characteristics may influence autonomous vehicle ownership decisions. Using 639 stated preference survey responses in the US, we developed an integrated choice and latent variable model linking trip- and consumer-level characteristics to AV ownership choices.
 
-Take a look at it and upload your first fact! 🖖 👀
+If you are interested in autonomous vehicle policies, this project is for you! 🖖 👀
 
-Project page: https://useless-facts-you-just-have-to-know.netlify.app/
+Project page: https://www.sciencedirect.com/science/article/pii/S1361920922001493?dgcid=rss_sd_all
 
 ## Team
 * Yuanjie (Tukey) Tu, PhD candidate, University of Washington, US
