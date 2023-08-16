@@ -7,7 +7,7 @@ We examined how trip-level characteristics may influence autonomous vehicle owne
 
 If you are interested in autonomous vehicle policies and ownership modeling, this project is for you! 🖖 👀
 
-Project page: https://www.sciencedirect.com/science/article/pii/S1361920922001493?dgcid=rss_sd_all
+Paper page: https://www.sciencedirect.com/science/article/pii/S1361920922001493?dgcid=rss_sd_all
 
 ## Team
 * Yuanjie (Tukey) Tu, PhD candidate, University of Washington, US
