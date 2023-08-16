@@ -33,5 +33,5 @@ Project page: https://useless-facts-you-just-have-to-know.netlify.app/
 The work was supported by the U.S. Department of Energy (DOE) Vehicle Technologies Office (VTO) under the Systems and Modeling for Accelerated Research in Transportation (SMART) Mobility Laboratory Consortium, an initiative of the Energy Efficient Mobility Systems (EEMS) Program. The submitted manuscript has been created by University of Washington and the UChicago Argonne, LLC, Operator of Argonne National Laboratory (Argonne). Argonne, a U.S. Department of Energy Office of Science laboratory, is operated under Contract No. DE-AC02-06CH11357. The U.S. Government retains for itself, and others acting on its behalf, a paid-up nonexclusive, irrevocable worldwide license in said article to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the Government.
 
 ## Contributing
-Contact us for the data and collaborations! 😀 
-Email: yuanjt2@uw.edu
+* Contact us for the data and collaborations! 😀 
+* Contact email: yuanjt2@uw.edu
